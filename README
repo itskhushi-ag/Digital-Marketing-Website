@@ -1,0 +1,62 @@
+# 🌐 Digital‑Marketing Website (Multi‑Page) – Learning Project
+
+A responsive, multi‑page marketing site built with **HTML**, **CSS**, and **Bootstrap 5**.  
+Pages included:
+
+| File              | Purpose                        |
+|-------------------|--------------------------------|
+| `index.html`      | Home / landing page            |
+| `about.html`      | About us                       |
+| `services.html`   | Services overview              |
+| `contact.html`    | Contact form & details         |
+
+---
+
+## 📌 Key Features
+- Fully responsive layout
+- Navigation bar linking the four pages above
+- Sections: Hero, Services, About, Testimonials, Contact, Footer
+- Customised icons, font sizes, spacing and content
+- Built with Bootstrap utilities + custom CSS
+- Ready for GitHub Pages deployment
+
+---
+
+## 📖 Project Background
+
+The base structure was **inspired by a tutorial from  
+[Thapa Technical](https://www.youtube.com/@ThapaTechnical)**.  
+I used the tutorial as a learning scaffold and then:
+
+- Rewrote all placeholder text with my own meaningful copy  
+- Adjusted padding, margins, fonts and colours to my taste  
+- Added a multi‑page navbar and routed `about`, `services`, and `contact` pages  
+- Replaced/added icons and images  
+- Ensured accessibility attributes and semantic HTML  
+
+This project is **strictly for educational and portfolio use**.
+
+---
+
+## 🔗 Live Preview
+
+> https://github.com/itskhushi-ag/Digital-Marketing-Website/new/main
+---
+
+## 📁 Folder Structure
+
+```text
+/
+├── about.html
+├── contact.html
+├── index.html
+├── services.html
+├── css/
+│   └── styles.css
+├── images/
+│   ├── call-us.gif
+│   ├── email.gif
+│   └── map.gif
+├── README.md
+├── LICENSE
+└── .gitignore
