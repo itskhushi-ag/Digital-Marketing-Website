@@ -1,0 +1,10 @@
+# OS / editor clutter
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
+
+# Node or other build artefacts (if ever added)
+node_modules/
+dist/
+
