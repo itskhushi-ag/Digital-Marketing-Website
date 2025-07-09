@@ -33,6 +33,8 @@ I used the tutorial as a learning scaffold and then:
 - Added a multi‑page navbar and routed `about`, `services`, and `contact` pages  
 - Replaced/added icons and images  
 - Ensured accessibility attributes and semantic HTML  
+- Tweaked design according to my preferences and understanding
+
 
 This project is **strictly for educational and portfolio use**.
 
